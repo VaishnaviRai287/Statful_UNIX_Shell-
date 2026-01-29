@@ -131,6 +131,6 @@ $ history
 
 $ exit
 ```
-##Summary
+## Summary
 This shell is designed to be both functional and instructive. It demonstrates how interactive command environments are built at a low level, exposing the mechanics behind everyday shell usage while remaining practical enough to use for real tasks
 
