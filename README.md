@@ -1,6 +1,6 @@
 # Statful_UNIX_Shell-
 
-This project implements a **Unix-style interactive shell** in **C++**, built from the ground up to behave like a real command interpreter. It provides a persistent command-line environment capable of launching programs, coordinating processes, managing input/output streams, and supporting interactive conveniences such as history navigation and autocompletion.
+This project implements a **Unix-style interactive shell** in **C**, built from the ground up to behave like a real command interpreter. It provides a persistent command-line environment capable of launching programs, coordinating processes, managing input/output streams, and supporting interactive conveniences such as history navigation and autocompletion.
 
 The emphasis is on understanding and controlling how Unix systems execute commands—at the level of processes, file descriptors, and terminal interaction.
 
